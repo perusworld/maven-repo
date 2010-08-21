@@ -1,1 +1,8 @@
 PerusWorld Maven Repository
+
+Add this to your repositories
+
+<repository>
+	<id>perusworld</id>
+	<url>http://github.com/perusworld/maven-repo/raw/master/</url>
+</repository>
